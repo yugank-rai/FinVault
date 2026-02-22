@@ -1,16 +1,33 @@
-# React + Vite
+# 💰 FinVault
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**FinVault** is a premium, glassmorphic personal finance dashboard designed for high-performance data visualization and expense management.It offers a sleek, modern UI optimized for both desktop and mobile devices.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+* **Premium Glassmorphism UI:** Advanced CSS implementation using `backdrop-filter` and custom radial gradients for a deep, high-end aesthetic.
+* **Interactive Data Visualization:** Dynamic Bar charts and Donut charts powered by **Recharts**, featuring live percentage labels and hover effects.
+* **Smart Time-Filtering:** Toggle analytics between **Weekly, Monthly, Yearly, and All-time** views with synchronized data across all components.
+* **Floating Plank History:** A unique "floating row" transaction table designed for maximum scannability and a modern feel.
+* **Mobile-First Design:** Fully responsive layout that stacks components intelligently on smaller screens without losing the "glass" effect.
+* **Interactive Dashboard:** Real-time summary cards tracking **Total Spent**, **Transaction Count**, and **Active Subscriptions**.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+* **Frontend:** React.js
+* **State Management:** React Hooks (useState, useEffect)
+* **Charts & Visualization:** Recharts
+* **Styling:** Custom CSS3 (Glassmorphism & Responsive Design)
+---
+
+---
+
+## 🏁 Getting Started
+
+1. **Clone the repo:**
+   ```bash
+   git clone [https://github.com/DRACOX/FinVault.git](https://github.com/DRACOX/FinVault.git)
