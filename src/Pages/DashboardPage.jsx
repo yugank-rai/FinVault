@@ -1,8 +1,8 @@
 import { useState } from 'react';
-import SummaryCards from '../components/Dashboard/SummaryCards';
-import CategoryPieChart from '../components/Dashboard/CategoryPieChart';
-import TrendGraph from '../components/Dashboard/TrendGraph';
-import TimeFilter from '../components/Dashboard/TimeFilter';
+import SummaryCards from '../components/dashboard/SummaryCards';
+import CategoryPieChart from '../components/dashboard/CategoryPieChart';
+import TrendGraph from '../components/dashboard/TrendGraph';
+import TimeFilter from '../components/dashboard/TimeFilter';
 
 export default function DashboardPage({ expenses }) {
   const [timeframe, setTimeframe] = useState('All');
