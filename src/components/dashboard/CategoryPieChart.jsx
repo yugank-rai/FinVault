@@ -92,3 +92,15 @@ export default function CategoryPieChart({ expenses }) {
     </div>
   );
 }
+const styles = {
+  emptyContainer: {
+    display: 'flex',
+    justifyContent: 'center',
+    alignItems: 'center',
+    height: '100%',
+    color: '#888',
+    fontSize: '14px',
+    textAlign: 'center',
+    padding: '20px'
+  }
+};
