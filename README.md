@@ -1,6 +1,18 @@
 # 💰 FinVault
 
+
+### Hi there! 👋 I'm Yugank Rai
+
+I'm a passionate **Computer Science Engineering student** at **IIIT Bhagalpur** and a dedicated learner.
+
 **FinVault** is a premium, glassmorphic personal finance dashboard designed for high-performance data visualization and expense management.It offers a sleek, modern UI optimized for both desktop and mobile devices.
+
+---
+
+### 🔗 Live Demo
+
+👉 
+
 
 ---
 
@@ -31,3 +43,19 @@
 1. **Clone the repo:**
    ```bash
    git clone [https://github.com/DRACOX/FinVault.git](https://github.com/DRACOX/FinVault.git)
+
+   
+---
+
+### 📬 Connect with Me
+
+**Yugank Rai**
+* **Email:** yugankrai.smn@gmail.com
+* **GitHub:** [@yugank-rai](https://github.com/yugank-rai)
+* **LinkedIn:** [Yugank Rai](https://www.linkedin.com/in/yugank-rai)
+
+---
+
+### 📄 License
+
+This project is open source and available under the **MIT License**.
