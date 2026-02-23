@@ -38,9 +38,14 @@ export default function AddExpenseForm({ onAdd, closeModal }) {
         <select value={category} onChange={(e) => setCategory(e.target.value)} style={styles.input}>
           <option value="Tech Gear">Tech Gear</option>
           <option value="Software">Software</option>
-          <option value="Sports">Sports</option>
-          <option value="Snacks">Snacks</option>
+          <option value="Sports gear">Sports</option>
+          <option value="Food">Food</option>
           <option value="Travel">Travel</option>
+          <option value="Laundry">Laundry</option>
+          <option value="Entertainment">Entertainment</option>
+          <option value="Health">Health</option>
+          <option value="Education">Education</option>
+          <option value="Other">Other</option>
         </select>
       </div>
 

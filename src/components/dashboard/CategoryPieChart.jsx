@@ -92,6 +92,7 @@ export default function CategoryPieChart({ expenses }) {
     </div>
   );
 }
+
 const styles = {
   emptyContainer: {
     display: 'flex',
