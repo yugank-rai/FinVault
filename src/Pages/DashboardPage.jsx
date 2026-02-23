@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import SummaryCards from "../components/dashboard/SummaryCards";
+import SummaryCards from '../components/dashboard/SummaryCards';
 import CategoryPieChart from '../components/dashboard/CategoryPieChart';
 import TrendGraph from '../components/dashboard/TrendGraph';
 import TimeFilter from '../components/dashboard/TimeFilter';
