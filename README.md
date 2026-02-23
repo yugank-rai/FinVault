@@ -11,8 +11,7 @@ I'm a passionate **Computer Science Engineering student** at **IIIT Bhagalpur** 
 
 ### 🔗 Live Demo
 
-👉 https://fin-vault-sigma.vercel.app/
-
+👉 https:https://fin-vault.netlify.app/
 
 ---
 
