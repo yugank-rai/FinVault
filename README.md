@@ -5,7 +5,7 @@
 
 I'm a passionate **Computer Science Engineering student** at **IIIT Bhagalpur** and a dedicated learner.
 
-**FinVault** is a premium, glassmorphic personal finance dashboard designed for high-performance data visualization and expense management.It offers a sleek, modern UI optimized for both desktop and mobile devices.
+**FinVault** is a premium, glassmorphic personal finance dashboard designed for high-performance data visualization and expense management.It offers a sleek, modern UI optimized for both desktop and mobile devices.you can maintain your financial records over there to see your overall spending.
 
 ---
 
